@@ -1,2 +1,0 @@
-# CAU-AID-Class
-AID
