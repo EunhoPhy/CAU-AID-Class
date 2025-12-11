@@ -72,4 +72,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-Developed by LeeEunho 20243866
+Developed by [LeeEunho 20243866](https://github.com/EunhoPhy)
